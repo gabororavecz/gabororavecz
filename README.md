@@ -6,7 +6,7 @@
 
 
 Software Developer, Student
-Hello there! I'm Gabor Oraveecz, a passionate developer with a keen interest in web development, data science and open-source contributions. Here on GitHub, you'll find a collection of my projects, collaborations, and contributions to the coding community.
+Hello there! I'm Gabor Oravecz, a passionate developer with a keen interest in web development, data science and open-source contributions. Here on GitHub, you'll find a collection of my projects, collaborations, and contributions to the coding community.
 
 About Me
 I have 4 years of experience in web development, and I love building innovative solutions to complex problems.
